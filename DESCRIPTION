@@ -1,0 +1,15 @@
+Package: deepdivedata
+Title: Data package for Deep Dive Into Data OI
+Version: 0.0.0.9000
+Authors@R: 
+    person("Emily", "Allen", , "emily.allen@coveocean.com", role = c("aut", "cre"))
+Description: This package contains all datasets for coding tutorials associated with the Deep Dive into Data program created by the Centre for Ocean Ventures and Entrepreneurship (COVE).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    tibble
