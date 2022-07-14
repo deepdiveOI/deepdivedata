@@ -7,4 +7,4 @@
 #' \item{annual.anom}{The temperature anomaly in degrees Celcius based on the average annual sea surface temperature} 
 #' }
 #' @source \url{https://www.statista.com/statistics/224893/land-and-ocean-temperature-anomalies-based-on-temperature-departure/#:~:text=In%202021%2C%20the%20land%20and,climate%20change%20than%20absolute%20temperature.}
-"seasurface"
+"seasurfaceData"
