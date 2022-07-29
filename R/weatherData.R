@@ -1,4 +1,4 @@
-#' Storm data collected by CTD sensors and the COVE weather station in November 2021
+#' Weather data collected by CTD sensors and the COVE weather station in November 2021
 #' Various ocean and atmospheric variables give insight to how big storms affect the ocean
 
 #' @format A tibble with 144 rows and 7 variables:
@@ -12,4 +12,4 @@
 #' \item{Units}{pressure measured in dbar}
 #' }
 #' @source \url{https://github.com/deepdiveOI/Data}
-"stormData"
+"weatherData"
